@@ -1,0 +1,49 @@
+Features:
+
+1.  'ID' -> 
+2.  'Severity' -> level of severity (1,2,3,4)
+3.  'Start_Time' -> start time of the construction work
+4.  'End_Time' -> end time of the construction work
+5.  'Start_Lat' -> latitude at the start of construction work
+6.  'Start_Lng' -> longitude at the start of construction work
+7.  'End_Lat' -> latitude at the end of the construction work
+8.  'End_Lng' -> longitude at the end of construction work
+9.  'Distance(mi)' -> distance between the start and end point of the construction work.
+10. 'Description' -> Description at the start of the construction work.
+11. 'Number' -> street number
+12. 'Street' -> street name
+13. 'Side' -> side (left/right) of the construction work.
+14. 'City' -> Name of the city
+15. 'County' -> Name of the county
+16. 'State' -> Name of the state
+17. 'Zipcode' -> Zipcode of the street
+18. 'Country' -> Name of the country
+19. 'Timezone' -> Timezone of location of the street
+20. 'Airport_Code' -> Nearest airport code
+21. 'Weather_Timestamp' -> Timestamp of the weather
+22. 'Temperature(F)' -> Temperature at the location of construction work.
+23. 'Wind_Chill(F)' -> Wind chill at the location of construction work.
+24. 'Humidity(%)' -> Humidity at the location of construction work.
+25. 'Pressure(in)' -> Pressure at the location of construction work.
+26. 'Visibility(mi)' -> Visibility at the location of construction work.
+27. 'Wind_Direction' -> Wind direction at the location of construction work.
+28. 'Wind_Speed(mph)' -> Wind speed at the location of construction work.
+29. 'Precipitation(in)' -> Precipitation at the location of construction work
+30. 'Weather_Condition' -> Weather condition at the location of construction work.
+31. 'Amenity' -> Refers to particular places such as restaurant, library, college, bar, etc.
+32. 'Bump' -> Refers to speed bump or hump to reduce the speed.
+33. 'Crossing' -> Refers to any crossing across roads for pedestrians, cyclists, etc.
+34. 'Give_Way' -> Indicates whether you must slow down and yield the right of way to traffic in the intersection you are crossing.
+35. 'Junction' -> Refers to any highway ramp, exit, or entrance.
+36. 'No_Exit' -> Indicates there is no possibility to travel further by any transport mode along a formal path or route.
+37. 'Railway' -> Indicates the presence of railways.
+38. 'Roundabout' -> Refers to a circular road junction.
+39. 'Station' -> Refers to public transportation stations (bus, metro, etc.)
+40. 'Stop' -> Refers to stop signs
+41. 'Traffic_Calming' -> Refers to any means for slowing down traffic speed.
+42. 'Traffic_Signal' -> Refers to traffic signals on intersections
+43. 'Turning_Loop' -> Indicates a widened area of a highway with a non-traversable island for turning around
+44. 'Sunrise_Sunset' -> whether the work starts before or after sunset. (i.e. day/night)
+45. 'Civil_Twilight' -> the period after sunset or before sunrise ending or beginning when the sun is about 6 degrees below the horizon and during which on clear days there is enough light for ordinary outdoor occupations (i.e. day/night)
+46. 'Nautical_Twilight' -> day/night
+47. 'Astronomical_Twilight' -> day/night
